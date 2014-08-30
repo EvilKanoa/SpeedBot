@@ -1,0 +1,7 @@
+A LeJOS NXT program that'll allow a robot to solve a Rubik's cube.
+
+Status: Does almost nothing. But I have ideas!
+
+Main code here: https://github.com/EvilKanoa/SpeedBot/blob/master/src/ca/kanoa/nxt/speedbot/SpeedBot.java
+
+Author: Kanoa Haley
